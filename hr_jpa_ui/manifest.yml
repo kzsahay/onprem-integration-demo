@@ -1,6 +1,6 @@
 applications:
 - name: onprem-integration-demo
-  host: onprem-integration-demo
+  host: KunalOnPremDemo
   path: .
   domain: mybluemix.net
   instances: 1
